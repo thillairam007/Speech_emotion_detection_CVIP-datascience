@@ -6,6 +6,8 @@ This project aims to recognize emotions in speech using machine learning techniq
 
 The TESS dataset contains emotional speech samples. The dataset was loaded and analyzed to understand the distribution of emotions.
 
+Download Dataset --> [click here](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+
 ![Emotion Distribution](https://drive.google.com/file/d/1rqIow3-GXCWZ8d_lwIQgw0v0woiaq4FT/view?usp=drive_link)
 
 
