@@ -8,7 +8,7 @@ The TESS dataset contains emotional speech samples. The dataset was loaded and a
 
 Download Dataset --> [click here](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
 
-![Emotion Distribution](https://drive.google.com/file/d/1rqIow3-GXCWZ8d_lwIQgw0v0woiaq4FT/view?usp=drive_link)
+![Emotion Distribution](https://drive.google.com/file/d/1rqIow3-GXCWZ8d_lwIQgw0v0woiaq4FT/view?usp=drive_link](https://drive.google.com/drive/folders/1DdoFv42VN6tadS2RrodXxe5OCE6V0BT_)
 
 
 ## Data Preprocessing
@@ -56,7 +56,7 @@ Non-trainable params: 0
 
 The model was trained with early stopping, monitoring validation loss, and patience set to 10 epochs. Training stopped when the validation loss no longer improved.
 
-![Training vs Validation Accuracy](https://drive.google.com/file/d/10jc1GQKOg75NbduB9k_py3sQkhw9306B/view?usp=sharing)
+![Training vs Validation Accuracy](https://drive.google.com/drive/folders/1DdoFv42VN6tadS2RrodXxe5OCE6V0BT_)
 
 ## Visualization
 
